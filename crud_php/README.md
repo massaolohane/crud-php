@@ -23,19 +23,4 @@ Este projeto faz parte dos meus estudos em desenvolvimento web, com foco em back
 * CSS3
 * JavaScript
 
-### Ambiente de Desenvolvimento
-
-* XAMPP
-* Apache
-* phpMyAdmin
-
-### Controle de Versão
-
-* Git
-* GitHub
-
-## Finalidade
-
-Este projeto foi criado para fins de aprendizado, prática e construção de portfólio, com foco em desenvolvimento backend.
-
 Sugestões e melhorias são bem-vindas!
